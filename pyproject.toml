@@ -3,7 +3,7 @@ requires = ["pdm-backend"]
 build-backend = "pdm.backend"
 
 [project]
-name = "Exegol"
+name = "Exegold"
 dynamic = ["version"]
 description = "Python wrapper to use Exegol, a container based fully featured and community-driven hacking environment."
 authors = [
