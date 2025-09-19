@@ -36,6 +36,7 @@
 > Exegol fits pentesters, CTF players, bug bounty hunters, researchers, beginners and advanced users, defenders, from stylish macOS users and corporate Windows pros to UNIX-like power users.
 
 # Getting started
+https://web.archive.org/web/20250310210307/https://exegol.readthedocs.io/en/latest/getting-started/install.html
 
 You can refer to the [Exegol documentation](https://exegol.readthedocs.io/en/latest/getting-started/install.html).
 
